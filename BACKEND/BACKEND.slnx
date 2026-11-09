@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../menu/menu.csproj" Id="37a43839-1227-401d-a17a-c13bddde4450" />
+  <Project Path="BACKEND.csproj" />
+</Solution>
